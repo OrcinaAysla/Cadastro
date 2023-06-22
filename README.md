@@ -15,7 +15,7 @@ Tecnologias Utilizadas:
   <li>Google app scrip</li>
 </ul>
 
-Dificuldades/erros encontrados durante o desenvolvimento do projeto: Tive um pouco de dificuldade no começo ao fazer o codigo mas depois peguei o jeito e fiz tudo cerot.
+Dificuldades/erros encontrados durante o desenvolvimento do projeto: Tive um pouco de dificuldade no começo ao fazer o codigo mas depois peguei o jeito e fiz tudo certo.
 
 Descrição: Eu fiz tudo corretamente, não vi nenhuma dificuldade além de encontrar alguns erros de codigo.
 
